@@ -1,0 +1,53 @@
+[
+    {
+      "ID": "12345",
+      "Cover Pic": "https://i.ibb.co/T118HKr/1.jpg",
+      "Title": "The Secret Garden",
+      "Author Name": "Emily Williams",
+      "Author Image": "https://i.ibb.co/wYQx7h7/boy1.png",
+      "Posted Date": "September 14, 2023",
+      "Reading Times": 256,
+      "Hashtags": ["#Fiction", "#Mystery", "#Gardening"]
+    },
+    {
+      "ID": "67890",
+      "Cover Pic": "https://i.ibb.co/pvy1N17/2.png",
+      "Title": "Lost in Time",
+      "Author Name": "Michael Anderson",
+      "Author Image": "https://i.ibb.co/R2X76s2/girl2.jpg",
+      "Posted Date": "September 12, 2023",
+      "Reading Times": 421,
+      "Hashtags": ["#ScienceFiction", "#Adventure", "#TimeTravel"]
+    },
+    {
+      "ID": "23456",
+      "Cover Pic": "https://i.ibb.co/Q6j0qLy/3.png",
+      "Title": "Cooking with Flavors",
+      "Author Name": "Julia Martinez",
+      "Author Image": "https://i.ibb.co/GWLT6XV/girl1.jpg",
+      "Posted Date": "September 10, 2023",
+      "Reading Times": 189,
+      "Hashtags": ["#Cookbook", "#Culinary", "#Recipes"]
+    },
+    {
+      "ID": "78901",
+      "Cover Pic": "https://i.ibb.co/g4TMdJD/4.jpg",
+      "Title": "The Art of Mindfulness",
+      "Author Name": "David Thompson",
+      "Author Image": "https://i.ibb.co/cFgsCnJ/boy2.jpg",
+      "Posted Date": "September 8, 2023",
+      "Reading Times": 312,
+      "Hashtags": ["#SelfHelp", "#Mindfulness", "#Wellness"]
+    },
+    {
+      "ID": "34567",
+      "Cover Pic": "https://i.ibb.co/T118HKr/1.jpg",
+      "Title": "Mysteries of the Universe",
+      "Author Name": "Sarah Johnson",
+      "Author Image": "https://i.ibb.co/wYQx7h7/boy1.png",
+      "Posted Date": "September 6, 2023",
+      "Reading Times": 503,
+      "Hashtags": ["#Science", "#Astronomy", "#Exploration"]
+    }
+  ]
+  
